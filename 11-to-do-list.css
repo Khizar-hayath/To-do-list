@@ -1,6 +1,10 @@
 body{
   font-family: Arial;
 }
+.heading{
+  font-weight: 600px;
+  font-size: 20px;
+}
 .name-input, 
 .due-date-input{
   font-size: 15px;
